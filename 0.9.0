@@ -1,0 +1,5 @@
+Collecting toolz
+  Downloading toolz-1.0.0-py3-none-any.whl.metadata (5.1 kB)
+Downloading toolz-1.0.0-py3-none-any.whl (56 kB)
+Installing collected packages: toolz
+Successfully installed toolz-1.0.0

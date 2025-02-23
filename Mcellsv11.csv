@@ -1,0 +1,21 @@
+name_model,Train Accuracy,Val Accuracy,Test Accuracy,Precision,Recall
+Mcells-y11 without Augmentation best Yolov11 N,0.76433,0.76433,0.739130435,0.739379085,0.739071314
+Mcells-y11 without Augmentation last Yolov11 N,0.76433,0.76433,0.776397516,0.776993784,0.776941266
+Mcells-y11 without Augmentation best Yolov11 S,0.77389,0.77389,0.838509317,0.846606692,0.839167658
+Mcells-y11 without Augmentation last Yolov11 S,0.77389,0.77389,0.807453416,0.81530112,0.808367157
+Mcells-y11 without Augmentation best Yolov11 M,0.79618,0.79618,0.819875776,0.828141805,0.822884446
+Mcells-y11 without Augmentation last Yolov11 M,0.79618,0.79618,0.819875776,0.819606793,0.822365656
+Mcells-y11 without Augmentation best Yolov11 L,0.82166,0.82166,0.801242236,0.804252479,0.801020447
+Mcells-y11 without Augmentation last Yolov11 L,0.82166,0.82166,0.801242236,0.804252479,0.801020447
+Mcells-y11 without Augmentation best Yolov11 X,0.77707,0.77707,0.745341615,0.747988066,0.747213784
+Mcells-y11 without Augmentation last Yolov11 X,0.77707,0.77707,0.801242236,0.803058537,0.802511129
+Mcells-y11 with Augmentation best Yolov11 N,0.82803,0.82803,0.819875776,0.824580969,0.820906859
+Mcells-y11 with Augmentation last Yolov11 N,0.82803,0.82803,0.832298137,0.838311137,0.833935387
+Mcells-y11 with Augmentation best Yolov11 S,0.84076,0.84076,0.819875776,0.826582826,0.823056736
+Mcells-y11 with Augmentation last Yolov11 S,0.84076,0.84076,0.819875776,0.826582826,0.823056736
+Mcells-y11 with Augmentation best Yolov11 M,0.84076,0.84076,0.875776398,0.883762105,0.880018973
+Mcells-y11 with Augmentation last Yolov11 M,0.84076,0.84076,0.900621118,0.907407254,0.905414913
+Mcells-y11 with Augmentation best Yolov11 L,0.8535,0.8535,0.844720497,0.851349206,0.847031237
+Mcells-y11 with Augmentation last Yolov11 L,0.8535,0.8535,0.863354037,0.872162023,0.866295811
+Mcells-y11 with Augmentation best Yolov11 X,0.83439,0.83439,0.850931677,0.864636502,0.85524487
+Mcells-y11 with Augmentation last Yolov11 X,0.83439,0.83439,0.850931677,0.864636502,0.85524487

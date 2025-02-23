@@ -1,0 +1,2 @@
+Requirement already satisfied: h5py in c:\users\conso\.conda\envs\yolov11\lib\site-packages (3.12.1)
+Requirement already satisfied: numpy>=1.19.3 in c:\users\conso\.conda\envs\yolov11\lib\site-packages (from h5py) (1.26.4)
